@@ -22,4 +22,3 @@ This Python script is designed to manage customer and student data. It creates f
 - Ensure Python is installed on your system.
 - This script assumes basic knowledge of Python and file handling.
 
-Feel free to modify and extend this script as needed.
